@@ -1,5 +1,7 @@
 {
   "main": "./https.js",
+  "name": "jspm-nodelibs-https",
+  "version": "0.2.0",
   "registry": "github",
   "map": {
     "./https.js": {
@@ -8,5 +10,6 @@
   },
   "peerDependencies": {
     "http": "jspm/nodelibs-http@^0.2.0-alpha"
-  }
+  },
+  "jspmNodeConversion": false
 }
