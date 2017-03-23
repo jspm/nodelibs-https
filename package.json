@@ -1,7 +1,7 @@
 {
   "main": "./https.js",
   "name": "jspm-nodelibs-https",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "map": {
     "./https.js": {
       "node": "@node/https"
